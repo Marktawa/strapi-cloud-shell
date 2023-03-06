@@ -32,6 +32,11 @@ cd backend
 npm install
 ```
 
+- Build Strapi app.
+```bash
+npm run build
+```
+
 - Run Strapi app.
 ```bash
 npm run develop
